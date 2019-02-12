@@ -41,6 +41,7 @@ class ResultViewController: UIViewController {
     @IBAction func back(){
         self.dismiss(animated: true, completion: nil)
     }
+    
 
 
     /*
